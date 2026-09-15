@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaGcwdEg5bU9pc0ZFSDU4ZXorUy9tbDVONnhTUDFsejdwSUI3c2Rmd3VTMlB2azArdkI4UUFyTUsxQmM2eG0zSmQ4UEtuSXZwWTY5TEExd2JhcEREeGIvYllaNEhCYUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzk3NjYzCWZpbGU6UHVwcGllc18wLjEuOF94NjRfZW4tVVMubXNpCndWZ1pvUXF5T0Fzc2lBUW50OU12VldWNzBqSGJaWTNKa1NPWTFXbkJzdDhDcFVub04vL0hkSmVLazExTUxTRVdJR1VCS0xCb0VTeFgyYnp0SUdYK0FnPT0K",
-      "url": "https://github.com/adoresi/pup/releases/download/v0.1.8/Puppies_0.1.8_x64_en-US.msi"
+      "url": "https://github.com/pupsicles/pup/releases/download/v0.1.8/Puppies_0.1.8_x64_en-US.msi"
     }
   }
 }
